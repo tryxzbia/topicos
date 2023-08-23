@@ -1,11 +1,11 @@
 @import url("styles/topicos.css");
 
 :root {
-    --cor-de-fundo: #EBECEE;
+    --cor-de-fundo: #e2e2e2;
     --branco: #FFFFFF;
-    --laranja: #EB9B00;
+    --laranja: #c98703;
     --fonte-principal: "Montserrat";
-    --azul: #002F52;
+    --azul: #003258;
     --preto: #000000;
 }
 
